@@ -1,7 +1,7 @@
 ---
 title: "Contate-nos"
 date: 2024-07-06
-author: "Prollad"
+author: "Letraspara-Nick.com"
 draft: false
 slug: "contact"
 excludeFromHome: true
