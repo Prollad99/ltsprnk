@@ -1,7 +1,7 @@
 ---
 title: "Política de privacidade"
 date: 2024-07-06
-author: "Prollad"
+author: "Letraspara-Nick.com"
 draft: false
 slug: "privacy-policy"
 excludeFromHome: true
