@@ -1,0 +1,8 @@
+baseURL = "https://www.letraspara-nick.com"
+languageCode = "pt"
+title = "Letras para Nick"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
