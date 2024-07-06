@@ -1,7 +1,7 @@
 ---
 title: "Sobre Nós"
 date: 2024-07-06
-author: "Prollad"
+author: "Letraspara-Nick.com"
 draft: false
 slug: "about"
 excludeFromHome: true
