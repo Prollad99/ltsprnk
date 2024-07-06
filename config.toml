@@ -6,3 +6,6 @@ title = "Letras para Nick"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[taxonomies]
+  tag = "tags"
