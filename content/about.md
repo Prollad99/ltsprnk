@@ -1,6 +1,6 @@
 ---
 title: "Sobre Nós"
-date: 2024-07-05
+date: 2024-07-06
 author: "Prollad"
 draft: false
 slug: "about"
