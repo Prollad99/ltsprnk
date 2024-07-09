@@ -1,10 +1,9 @@
 ---
-title: Letras para Nick: Personalize Seu Apelido com Estilo
-slug: letras-para-nick
-date: 2024-07-09
-tags: [letras para nick, personalização de nick, fontes para nick]
-description: Descubra como transformar seu apelido com letras únicas e estilos personalizados usando nossa ferramenta de conversão.
-author: Prollad
+title: "Letras para Nick: Personalize Seu Apelido com Estilo"
+date: "2024-07-09"
+tags: ["letras para nick", "personalização de nick", "fontes para nick"]
+description: "Descubra como transformar seu apelido com letras únicas e estilos personalizados usando nossa ferramenta de conversão."
+author: "Prollad"
 ---
 
 ## Transforme Seu Apelido com Estilo
