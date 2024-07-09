@@ -9,3 +9,9 @@ title = "Letras para Nick"
 
 [taxonomies]
   tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
