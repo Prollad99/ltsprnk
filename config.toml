@@ -1,4 +1,4 @@
-baseURL = "https://prollad99.github.io/ltsprnk/"
+baseURL = "https://prollad99.github.io/ltsprnk"
 languageCode = "pt"
 title = "Letras para Nick"
 
@@ -9,9 +9,3 @@ title = "Letras para Nick"
 
 [taxonomies]
   tag = "tags"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML", "RSS"]
