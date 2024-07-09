@@ -73,12 +73,12 @@ function mobilemenu() {
 
 
 for(var jee=0;jee<totaldbfonts;jee++){
- 	$('#arkstyle'+jee).val(applyCharMap(dbfonts[jee],"Nick ff"));   
+ 	$('#arkstyle'+jee).val(applyCharMap(dbfonts[jee],"Nick"));   
 }
 
 	for(var x=1;x<=15;x++){
 	var previous=x-1;
-	$('#style'+x).val((s[previous]+applyCharMap(fonts[previous],"Nick ff")+e[previous]));
+	$('#style'+x).val((s[previous]+applyCharMap(fonts[previous],"Nick")+e[previous]));
  }
 
 
@@ -145,7 +145,7 @@ $('#newfontsload').append($newdiv1);
 if($('#input').val()==""){
 var previousf=initialfonts-1;
 	var symbolno=getRandomSymbol(0,s.length-1);
-	$('#style'+initialfonts).val((s[symbolno]+applyCharMap(fonts[previousf],"Nick ff")+e[symbolno]));
+	$('#style'+initialfonts).val((s[symbolno]+applyCharMap(fonts[previousf],"Nick")+e[symbolno]));
 }else{
 var previousf=initialfonts-1;
 var inputtext=$('#input').val();
@@ -162,7 +162,7 @@ var currentstyle='"style'+initialfonts+'"';
 var $newdiv1 = $( "<div id='output-res'><input id='style"+initialfonts+"' readonly/><button type='submit' onclick='CopyText("+currentstyle+")'>Copiar</button></div>" );
 $('#randomfontsload').append($newdiv1);
 if($('#input').val()==""){
-var texthere="Nick ff";
+var texthere="Nick";
 }else{
 var texthere=$('#input').val();
 }
