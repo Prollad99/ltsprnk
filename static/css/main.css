@@ -108,13 +108,3 @@ box-shadow: 0 2px 2px rgb(0 0 0 / 10%);
 background-color:#ff8533;
 transition-duration: 1s;
 }
-
-nav.mobi { display: flex; position: fixed; bottom: 0; left:0;  width: 100%; padding: 0.3rem 0; background: #fefefe; border-top: 1px solid #ccc; z-index: 9999; margin: 0 auto; } 
- .mobi { transition: 0.5s ease!important; } 
- nav.mobi ul { list-style: none; display: flex; justify-content: space-between; align-items: center; width: 100%; margin: 0; justify-self: center; vertical-align: middle; } 
- nav.mobi ul li { display: flex; flex-direction: column; align-items: center; font-size: 0.7rem; flex-grow: 1; margin: 0; } 
- nav.mobi ul li a { color: #222; font-size: inherit; display: var(--prP3M8); flex-direction: var(--mZSq9k); }
- nav.mobi ul li a svg{width: 24px; height: 24px; display: block;margin: 0 auto; } 
-.navf{
-font-size: 9px;
-}
