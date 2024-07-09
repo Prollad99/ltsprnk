@@ -10,8 +10,6 @@ author: "Prollad"
 
 Você está procurando formas de deixar seu apelido mais interessante e único? Com nossa ferramenta de conversão de letras, você pode transformar texto normal em estilos de fontes variadas para usar em redes sociais, jogos e muito mais. Experimente diferentes estilos de letras como góticas, cursivas, invertidas e decorativas, e dê um toque especial ao seu nick!
 
-{{< nick >}}
-
 ### Como Usar a Ferramenta de Conversão
 
 1. **Insira seu texto**: Digite o apelido ou qualquer texto que deseja transformar no campo de entrada.
