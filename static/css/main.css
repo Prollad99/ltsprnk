@@ -151,3 +151,64 @@ line-height:1.625;
         .copy-btn:hover {
             background-color: #0056b3;
         }
+
+.cen {
+  text-align: center;
+}
+.cen h2 {
+  color: #333;
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.cen .simb {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.cen .simb span {
+  font-size: 24px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  transition: background-color 0.3s, transform 0.3s;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+.cen .simb span:hover {
+  background-color: #f1f1f1;
+  transform: scale(1.1);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+#customers {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+#customers caption {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#customers td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+#customers td a {
+  text-decoration: none;
+  color: #333;
+  display: block;
+  padding: 10px;
+  transition: background-color 0.3s, color 0.3s;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+#customers td a:hover {
+  background-color: #f1f1f1;
+  color: #000;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+}
