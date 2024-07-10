@@ -188,11 +188,6 @@ line-height:1.625;
   border-collapse: collapse;
   margin: 20px 0;
 }
-#customers caption {
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 10px;
-}
 #customers td {
   border: 1px solid #ddd;
   padding: 8px;
