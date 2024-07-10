@@ -7,5 +7,8 @@ title = "Letras para Nick"
     [markup.goldmark.renderer]
       unsafe = true
 
+[permalinks]
+posts = "/:slug/"
+
 [taxonomies]
   tag = "tags"
