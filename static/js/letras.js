@@ -97,10 +97,6 @@
     "A": "ᵃ", "B": "ᵇ", "C": "ᶜ", "D": "ᵈ", "E": "ᵉ", "F": "ᶠ", "G": "ᵍ", "H": "ʰ", "I": "ⁱ", "J": "ʲ", "K": "ᵏ", "L": "ˡ", "M": "ᵐ", "N": "ⁿ", "O": "ᵒ", "P": "ᵖ", "Q": "ᑫ", "R": "ʳ", "S": "ˢ", "T": "ᵗ", "U": "ᵘ", "V": "ᵛ", "W": "ʷ", "X": "ˣ", "Y": "ʸ", "Z": "ᶻ",
     "a": "ᵃ", "b": "ᵇ", "c": "ᶜ", "d": "ᵈ", "e": "ᵉ", "f": "ᶠ", "g": "ᵍ", "h": "ʰ", "i": "ⁱ", "j": "ʲ", "k": "ᵏ", "l": "ˡ", "m": "ᵐ", "n": "ⁿ", "o": "ᵒ", "p": "ᵖ", "q": "ᑫ", "r": "ʳ", "s": "ˢ", "t": "ᵗ", "u": "ᵘ", "v": "ᵛ", "w": "ʷ", "x": "ˣ", "y": "ʸ", "z": "ᶻ"
     },
-    "flag": {
-    "A": "🇦", "B": "🇧", "C": "🇨", "D": "🇩", "E": "🇪", "F": "🇫", "G": "🇬", "H": "🇭", "I": "🇮", "J": "🇯", "K": "🇰", "L": "🇱", "M": "🇲", "N": "🇳", "O": "🇴", "P": "🇵", "Q": "🇶", "R": "🇷", "S": "🇸", "T": "🇹", "U": "🇺", "V": "🇻", "W": "🇼", "X": "🇽", "Y": "🇾", "Z": "🇿",
-    "a": "🇦", "b": "🇧", "c": "🇨", "d": "🇩", "e": "🇪", "f": "🇫", "g": "🇬", "h": "🇭", "i": "🇮", "j": "🇯", "k": "🇰", "l": "🇱", "m": "🇲", "n": "🇳", "o": "🇴", "p": "🇵", "q": "🇶", "r": "🇷", "s": "🇸", "t": "🇹", "u": "🇺", "v": "🇻", "w": "🇼", "x": "🇽", "y": "🇾", "z": "🇿"
-    },
     "zalgo": {
     "A": "Ä̶̛̰̦̹͑͂̿̐̈́̓͘̕͟", "B": "B̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "C": "C̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "D": "D̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "E": "Ḛ̶̛̦̹̈͑͂̿̐̈́̓͘̕͟", "F": "F̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "G": "G̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "H": "Ḧ̶̛̰̦̹͑͂̿̐̈́̓͘̕͟", "I": "Ḭ̶̛̦̹̈͑͂̿̐̈́̓͘̕͟", "J": "J̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "K": "K̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "L": "L̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "M": "M̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "N": "N̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "O": "Ơ̶̰̦̹̈͑͂̿̐̈́̓͘̕͟", "P": "P̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "Q": "Q̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "R": "R̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "S": "S̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "T": "T̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "U": "Ư̶̰̦̹̈͑͂̿̐̈́̓͘̕͟", "V": "V̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "W": "Ẅ̶̛̰̦̹͑͂̿̐̈́̓͘̕͟", "X": "Ẍ̶̛̰̦̹͑͂̿̐̈́̓͘̕͟", "Y": "Ÿ̶̛̰̦̹͑͂̿̐̈́̓͘̕͟", "Z": "Z̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟",
     "a": "ä̶̛̰̦̹͑͂̿̐̈́̓͘̕͟", "b": "b̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "c": "c̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "d": "d̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "e": "ḛ̶̛̦̹̈͑͂̿̐̈́̓͘̕͟", "f": "f̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "g": "g̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "h": "ḧ̶̛̰̦̹͑͂̿̐̈́̓͘̕͟", "i": "ḭ̶̛̦̹̈͑͂̿̐̈́̓͘̕͟", "j": "j̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "k": "k̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "l": "l̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "m": "m̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "n": "n̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "o": "ơ̶̰̦̹̈͑͂̿̐̈́̓͘̕͟", "p": "p̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "q": "q̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "r": "r̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "s": "s̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "t": "ẗ̶̛̰̦̹͑͂̿̐̈́̓͘̕͟", "u": "ư̶̰̦̹̈͑͂̿̐̈́̓͘̕͟", "v": "v̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟", "w": "ẅ̶̛̰̦̹͑͂̿̐̈́̓͘̕͟", "x": "ẍ̶̛̰̦̹͑͂̿̐̈́̓͘̕͟", "y": "ÿ̶̛̰̦̹͑͂̿̐̈́̓͘̕͟", "z": "z̶̛̰̦̹̈͑͂̿̐̈́̓͘̕͟"
@@ -146,7 +142,7 @@
     // Clear previous output
     outputContainer.innerHTML = '';
     
-    const styles = ['boxed', 'full_boxed', 'monospace', 'cutout', 'small_caps', 'old_english', 'old_english_bold', 'organic', 'script', 'bold_script', 'circles', 'filled_circles', 'wide', 'bold', 'bold_serif', 'italic', 'italic_serif', 'bold_italic', 'bold_italic_serif', 'underlined', 'strikeout', 'upsidedown', 'mirrored', 'supertiny', 'flag', 'zalgo', 'doubledots', 'circumflex', 'wave', 'slashed', 'mustache', 'starrynight', 'litestrikes']; // Add more styles here
+    const styles = ['boxed', 'full_boxed', 'monospace', 'cutout', 'small_caps', 'old_english', 'old_english_bold', 'organic', 'script', 'bold_script', 'circles', 'filled_circles', 'wide', 'bold', 'bold_serif', 'italic', 'italic_serif', 'bold_italic', 'bold_italic_serif', 'underlined', 'strikeout', 'upsidedown', 'mirrored', 'supertiny', 'zalgo', 'doubledots', 'circumflex', 'wave', 'slashed', 'mustache', 'starrynight', 'litestrikes']; // Add more styles here
     
     styles.forEach(style => {
     const div = document.createElement('div');
@@ -176,7 +172,7 @@
     const defaultText = "Letras";
     const outputContainer = document.getElementById('outputContainer');
     
-    const styles = ['boxed', 'full_boxed', 'monospace', 'cutout', 'small_caps', 'old_english', 'old_english_bold', 'organic', 'script', 'bold_script', 'circles', 'filled_circles', 'wide', 'bold', 'bold_serif','italic', 'italic_serif', 'bold_italic', 'bold_italic_serif', 'underlined', 'strikeout', 'upsidedown', 'mirrored', 'supertiny', 'flag', 'zalgo', 'doubledots', 'circumflex', 'wave', 'slashed', 'mustache', 'starrynight', 'litestrikes']; // Add more styles here
+    const styles = ['boxed', 'full_boxed', 'monospace', 'cutout', 'small_caps', 'old_english', 'old_english_bold', 'organic', 'script', 'bold_script', 'circles', 'filled_circles', 'wide', 'bold', 'bold_serif','italic', 'italic_serif', 'bold_italic', 'bold_italic_serif', 'underlined', 'strikeout', 'upsidedown', 'mirrored', 'supertiny', 'zalgo', 'doubledots', 'circumflex', 'wave', 'slashed', 'mustache', 'starrynight', 'litestrikes']; // Add more styles here
     
     styles.forEach(style => {
     const div = document.createElement('div');
