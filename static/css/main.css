@@ -259,5 +259,5 @@ nav.mobi {
     }
 
 footer {
-        padding-bottom: 10rem; /* Adjust this value based on the height of your nav bar */
+        margin-bottom: 10rem; /* Adjust this value based on the height of your nav bar */
     }
