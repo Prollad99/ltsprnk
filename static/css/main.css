@@ -207,3 +207,51 @@ line-height:1.625;
   color: #000;
   box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
 }
+
+nav.mobi {
+        display: flex;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        padding: 0.3rem 0;
+        background: #fefefe;
+        border-top: 1px solid #ccc;
+        z-index: 9999;
+        margin: 0 auto;
+    }
+    .mobi {
+        transition: 0.5s ease!important;
+    }
+    nav.mobi ul {
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        margin: 0;
+        justify-self: center;
+        vertical-align: middle;
+    }
+    nav.mobi ul li {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-size: 0.7rem;
+        flex-grow: 1;
+        margin: 0;
+    }
+    nav.mobi ul li a {
+        color: #222;
+        font-size: inherit;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-decoration: none; /* remove underline */
+    }
+    nav.mobi ul li a:hover {
+        color: #0056b3; /* change color on hover */
+    }
+    .navf {
+        font-size: 9px;
+    }
