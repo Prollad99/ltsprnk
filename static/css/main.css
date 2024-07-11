@@ -257,3 +257,7 @@ nav.mobi {
     .navf {
         font-size: 9px;
     }
+
+footer {
+        padding-bottom: 3rem; /* Adjust this value based on the height of your nav bar */
+    }
