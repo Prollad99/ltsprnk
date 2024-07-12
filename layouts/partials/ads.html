@@ -1,3 +1,48 @@
-<div class="ad-container">
-  <iframe src="/ads-iframe.html" frameborder="0" scrolling="no" style="width: 100%; height: 100%;"></iframe>
+<!-- layouts/shortcodes/ads.html -->
+<div id="ad-container" class="ad-container">
+  <script data-cfasync='false' id='clever-core' type='text/javascript'>
+    /* <![CDATA[ */
+    (function (document, window) {
+        if (document.getElementById('ad-container')) {
+            var a, c = document.createElement("script"), f = window.frameElement;
+
+            c.id = "CleverCoreLoader65781";
+            c.src = "https://scripts.cleverwebserver.com/23858677653016224382409b6a36acaf.js";
+
+            c.async = !0;
+            c.type = "text/javascript";
+            c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+            c.setAttribute("data-callback", "put-your-callback-function-here");
+            c.setAttribute("data-callback-url-click", "put-your-click-macro-here");
+            c.setAttribute("data-callback-url-view", "put-your-view-macro-here");
+
+            try {
+                a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+            } catch (e) {
+                a = !1;
+            }
+
+            a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+            a.parentNode.insertBefore(c, a);
+        }
+    })(document, window);
+    /* ]]> */
+  </script>
 </div>
+
+<style>
+.ad-container {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  position: relative;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .ad-container {
+    width: 300px;
+    height: 300px;
+  }
+}
+</style>
