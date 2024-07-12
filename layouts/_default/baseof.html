@@ -12,13 +12,18 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9883001954705974" crossorigin="anonymous"></script>
 
 <script>
-  (function() {
-    var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-    var params = document.createElement("script");
-    params.innerHTML = 'window.siteParams = { isMobile: ' + isMobile + ' };';
-    document.head.appendChild(params);
-  })();
-</script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+      if (isMobile) {
+        var script = document.createElement('script');
+        script.id = 'clever-core';
+        script.type = 'text/javascript';
+        script.src = '/js/ads.js';
+        script.async = true;
+        document.head.appendChild(script);
+      }
+    });
+  </script>
 
     <!-- Preload CSS to improve render time -->
     <link rel="preload" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" as="style">
@@ -73,10 +78,6 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer></script>
     <script src="{{ "js/nick.js" | relURL }}" defer></script>
     <script src="{{ "js/letras.js" | relURL }}" defer></script>
-    
-{{ if .Site.Params.isMobile }}
-<script data-cfasync='false' id='clever-core' type='text/javascript' src="{{ "js/ads.js" | relURL }}"></script>
-{{ end }}
 </body>
 
 </html>
