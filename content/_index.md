@@ -12,6 +12,8 @@ Você já quis deixar seus nicks e textos mais atraentes e únicos? Com a nossa 
 
 {{< nick >}}
 
+{{< ads >}}
+
 ## Como Usar a Ferramenta
 
 Nossa ferramenta é muito fácil de usar. Basta inserir qualquer texto no campo de entrada e ele será automaticamente convertido em várias letras estilizadas. Você pode copiar o texto estilizado com um único clique e usá-lo onde quiser.
