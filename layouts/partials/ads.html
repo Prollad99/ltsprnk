@@ -33,8 +33,11 @@
 <style>
 .ad-container {
   width: 100%;
-  height: auto;
+  max-width: 100%; /* Ensures the ad container doesn't exceed the viewport width */
+  height: 250px; /* Adjust the height to your preferred fixed height */
   position: relative;
   margin: 0 auto;
+  overflow: hidden; /* Prevents overflow issues */
+  display: block; /* Ensures it behaves correctly as a block element */
 }
 </style>
