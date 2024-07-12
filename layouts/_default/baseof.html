@@ -41,16 +41,6 @@
 </head>
 
 <body>
-    <!-- Loading Screen -->
-    <div id="loading-screen">
-        <div class="loader">
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-        </div>
-    </div>
-
     <!-- Header Partial -->
     {{ partial "header.html" . }}
     <nav aria-label="breadcrumb">
@@ -75,12 +65,6 @@
     <script src="{{ "js/nick.js" | relURL }}" defer></script>
     <script src="{{ "js/letras.js" | relURL }}" defer></script>
     <script data-cfasync='false' id='clever-core' type='text/javascript' src="{{ "js/ads.js" | relURL }}"></script>
-
-    <script>
-        window.addEventListener('load', function() {
-            document.getElementById('loading-screen').style.display = 'none';
-        });
-    </script>
 </body>
 
 </html>
