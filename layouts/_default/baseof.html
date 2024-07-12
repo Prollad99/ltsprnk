@@ -11,6 +11,15 @@
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9883001954705974" crossorigin="anonymous"></script>
 
+<script>
+  (function() {
+    var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+    var params = document.createElement("script");
+    params.innerHTML = 'window.siteParams = { isMobile: ' + isMobile + ' };';
+    document.head.appendChild(params);
+  })();
+</script>
+
     <!-- Preload CSS to improve render time -->
     <link rel="preload" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" as="style">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
@@ -65,15 +74,9 @@
     <script src="{{ "js/nick.js" | relURL }}" defer></script>
     <script src="{{ "js/letras.js" | relURL }}" defer></script>
     
-<script>
-  if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
-    var c = document.createElement('script');
-    c.id = 'clever-core';
-    c.type = 'text/javascript';
-    c.src = '{{ "js/ads.js" | relURL }}';
-    document.head.appendChild(c);
-  }
-</script>
+{{ if .Site.Params.isMobile }}
+<script data-cfasync='false' id='clever-core' type='text/javascript' src="{{ "js/ads.js" | relURL }}"></script>
+{{ end }}
 </body>
 
 </html>
