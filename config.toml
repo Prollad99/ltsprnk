@@ -8,7 +8,10 @@ title = "Letras para Nick"
       unsafe = true
 
 [permalinks]
-posts = "/:slug/"
+  posts = "/:slug/"
 
 [taxonomies]
   tag = "tags"
+
+[params]
+  loadAdsScript = true
