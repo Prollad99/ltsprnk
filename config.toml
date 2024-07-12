@@ -12,3 +12,6 @@ posts = "/:slug/"
 
 [taxonomies]
   tag = "tags"
+
+[params]
+  isMobile = "<script>document.write(siteParams.isMobile)</script>"
