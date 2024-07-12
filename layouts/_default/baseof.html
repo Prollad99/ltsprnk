@@ -14,18 +14,18 @@
 <script>
     document.addEventListener('DOMContentLoaded', function () {
       var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-      if (isMobile) {
+      if (isMobile && {{ .Site.Params.loadAdsScript }}) {
         var script = document.createElement('script');
         script.id = 'clever-core';
         script.type = 'text/javascript';
-        script.src = '/js/ads.js';
+        script.src = '{{ "js/ads.js" | relURL }}';
         script.async = true;
         document.head.appendChild(script);
       }
     });
   </script>
 
-    <!-- Preload CSS to improve render time -->
+<!-- Preload CSS to improve render time -->
     <link rel="preload" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" as="style">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
 
