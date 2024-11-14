@@ -12,6 +12,3 @@ title = "Letras para Nick"
 
 [taxonomies]
   tag = "tags"
-
-[params]
-  loadAdsScript = true
